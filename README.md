@@ -1,7 +1,7 @@
 <h1 align="center">哔哩哔哩视频总结器</h1>
 
 <p align="center">
-  <a href="https://github.com/The-Pocket/PocketFlow" target="_blank">
+  <a href="https://github.com/JeseKi/BilibiliSummarier" target="_blank">
     <img 
       src="./assets/banner.png" width="600"
     />
@@ -10,7 +10,7 @@
 
 ## 项目简介
 
-哔哩哔哩视频总结器是一个使用PocketFlow构建的工具，可以自动从哔哩哔哩视频中提取字幕，并生成视频内容的摘要。该工具使用yutto获取字幕，并利用大语言模型生成易于理解的中文摘要，最终输出一个美观的HTML页面。
+哔哩哔哩视频总结器是一个使用[PocketFlow](https://github.com/The-Pocket/PocketFlow)构建的工具，可以自动从哔哩哔哩视频中提取字幕，并生成视频内容的摘要。该工具使用yutto获取字幕，并利用大语言模型生成易于理解的中文摘要，最终输出一个美观的HTML页面。
 
 ## 功能特点
 
@@ -25,7 +25,7 @@
 
 1. 克隆项目并进入项目目录
 ```bash
-git clone https://github.com/<你的用户名>/BilibiliSummarier.git
+git clone https://github.com/JeseKi/BilibiliSummarier.git
 cd BilibiliSummarier
 ```
 
